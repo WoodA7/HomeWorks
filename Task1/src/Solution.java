@@ -6,8 +6,6 @@
 Так-же в этом файлике будут указано число встретившихся пробелов.*/
 
 import java.io.*;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
 
 public class Solution {
 
